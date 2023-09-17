@@ -1,7 +1,8 @@
 Servidor IOT - Sprint 3
 
 Integrante:
-Guilherme Doretto Sobreiro - RM: 99674 -
+Guilherme Doretto Sobreiro - RM: 99674
+
 Link do Vídeo: https://youtu.be/F-1JgkKrURY
 
 # README - Internet of Things (IoT) Server Setup Guide
@@ -73,10 +74,16 @@ sudo docker stats
 
 ## 9. Testando com o Postman
 9.1. Abra o Postman e comece a criar solicitações HTTP ou MQTT para interagir com seus dispositivos IoT ou serviços IoT instalados no servidor.
+
 9.2. Importe o arquivo .json
+
 9.3. Entre na pasta "FIWARE"
+
 9.4. Abra a pasta "IOT Agent MQTT"
+
 9.5. Clique em "Health Check"
+
 9.6. Coloque o IP da Máquina e Pronto.
+
 
 Agora você tem um servidor IoT configurado em sua máquina virtual Ubuntu e a ferramenta Postman para testar e interagir com seus dispositivos IoT.
